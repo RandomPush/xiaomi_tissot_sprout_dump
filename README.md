@@ -1,0 +1,14 @@
+# tissot-user 9 PKQ1.180917.001 V10.0.24.0.PDHMIXM release-keys
+- manufacturer: xiaomi
+- platform: 
+- codename: tissot_sprout
+- flavor: tissot-user
+- release: 9
+- id: PKQ1.180917.001
+- incremental: V10.0.24.0.PDHMIXM
+- tags: release-keys
+- fingerprint: xiaomi/tissot/tissot_sprout:9/PKQ1.180917.001/V10.0.24.0.PDHMIXM:user/release-keys
+- is_ab: true
+- brand: xiaomi
+- branch: tissot-user-9-PKQ1.180917.001-V10.0.24.0.PDHMIXM-release-keys
+- repo: xiaomi_tissot_sprout_dump
